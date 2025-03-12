@@ -12,4 +12,4 @@ Folder containing ipython notebook used to make the figures in the paper.
 
 **/enhancer_reporter**
 
-Folder containing ipython notebook used to process zebrafish enhancer reporter imgages.
+Folder containing ipython notebook used to process zebrafish enhancer reporter images.
