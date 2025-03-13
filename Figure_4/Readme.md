@@ -6,7 +6,7 @@
 
 Folder containing scripts used to pre-process the data and train and fine tune the zebrafish CREsted model.
 
-**/analysis**
+**/analyses**
 
 Folder containing ipython notebook used to make the figures in the paper.
 
