@@ -1,6 +1,6 @@
 # CREsted paper
 
-Scripts and notebooks for analyses in "CREsted: cell type-specific enhancer code modeling and design from scATAC-seq data".
+Scripts and notebooks for analyses in "CREsted: modeling genomic and synthetic cell type-specific enhancers across tissues and species".
 For CREsted source code & documentation please visit: the [CREsted repository](https://github.com/aertslab/crested).
 
 # Figures
