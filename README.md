@@ -17,6 +17,7 @@ No analyses were performed for this figure.
 **CREsted applied to mouse motor cortex scATAC-seq data.**
 
 [Model training and evaluation](https://github.com/aertslab/CREsted/blob/main/docs/tutorials/model_training_and_eval.ipynb) and [enhancer code analysis](https://github.com/aertslab/CREsted/blob/main/docs/tutorials/enhancer_code_analysis.ipynb) notebooks for this dataset are found as tutorial notebooks in the CREsted repository.
+Additional notebooks for main figure reproducability are found in this folder.
 
 ## Figure 3
 
