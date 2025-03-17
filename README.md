@@ -8,7 +8,7 @@ For CREsted source code & documentation please visit: the [CREsted repository](h
 Notebooks and scripts are subdivided in separate folders.
 
 ## Figure 1
-**CREsted overview.**
+**CREsted package overview.**
 
 No analyses were performed for this figure.
 
@@ -25,8 +25,10 @@ Additional notebooks for main figure reproducability are found in this folder.
 
 ## Figure 4
 
-**A zebrafish whole organism developmental CREsted model can be used to design cell type-specific enhancers.**
+**Transfer learning from and benchmarking against a large pre-trained sequence-to-function model.**
 
 ## Figure 5
 
-**Transfer learning from foundation models gives similar results to training from scratch*.**
+**DeepZebrafish can be used to design cell type-specific enhancers in the whole zebrafish over development.**
+
+
