@@ -1,4 +1,4 @@
-# Figure 4: A zebrafish whole organism developmental CREsted model can be used to design cell type-specific enhancers.
+# Figure 6: A zebrafish whole organism developmental CREsted model can be used to design cell type-specific enhancers.
 
 ## Description
 
