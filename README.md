@@ -1,7 +1,7 @@
 # CREsted paper
 
 Scripts and notebooks for analyses in "CREsted: modeling genomic and synthetic cell type-specific enhancers across tissues and species".
-For CREsted source code & documentation please visit: the [CREsted repository](https://github.com/aertslab/crested).
+For CREsted source code & documentation please visit: the [CREsted repository](https://github.com/aertslab/crested) and [documentation](https://crested.readthedocs.io/en/latest/).
 
 # Figures
 
@@ -25,9 +25,15 @@ Additional notebooks for main figure reproducability are found in this folder.
 
 ## Figure 4
 
-**Transfer learning from and benchmarking against a large pre-trained sequence-to-function model.**
+**Comparing MES-like states across cancers in cell lines and biopsies.**
 
 ## Figure 5
+
+**Transfer learning from and benchmarking against a large pre-trained sequence-to-function model.**
+
+A general [model training](https://github.com/aertslab/CREsted/blob/main/docs/tutorials/borzoi_atac_finetuning.ipynb) notebook can be found for this dataset in the CREsted repository.
+
+## Figure 6
 
 **DeepZebrafish can be used to design cell type-specific enhancers in the whole zebrafish over development.**
 
