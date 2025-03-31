@@ -4,6 +4,9 @@ Scripts and notebooks for analyses in "CREsted: modeling genomic and synthetic c
 For CREsted source code & documentation please visit: the [CREsted repository](https://github.com/aertslab/crested) and [documentation](https://crested.readthedocs.io/en/latest/).
 The manuscript's Data Availability section contains a detailed description of all public and new data used for all analyses.
 
+The analyis data required for running these notebooks can be downloaded at:
+https://resources.aertslab.org/CREsted/manuscript_data/ 
+
 # Figures
 
 Notebooks and scripts are subdivided in separate folders.
