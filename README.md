@@ -2,6 +2,7 @@
 
 Scripts and notebooks for analyses in "CREsted: modeling genomic and synthetic cell type-specific enhancers across tissues and species".
 For CREsted source code & documentation please visit: the [CREsted repository](https://github.com/aertslab/crested) and [documentation](https://crested.readthedocs.io/en/latest/).
+The manuscript's Data Availability section contains a detailed description of all public and new data used for all analyses.
 
 # Figures
 
