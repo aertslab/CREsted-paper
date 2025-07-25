@@ -1,0 +1,7 @@
+**/crested_data/
+**/v10nr_clust_public/
+*.zip
+*.tar
+*.gz
+*.feather
+*.fa
