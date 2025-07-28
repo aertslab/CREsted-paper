@@ -5,3 +5,9 @@
 *.gz
 *.feather
 *.fa
+*DS_Store
+**/cistarget_out
+*.bed
+motif_list.txt
+*slurm*
+*.index
