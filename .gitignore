@@ -11,3 +11,5 @@
 motif_list.txt
 *slurm*
 *.index
+enriched_motifs.txt
+*.png
