@@ -11,3 +11,4 @@
 motif_list.txt
 *slurm*
 *.index
+.ipynb_checkpoints
