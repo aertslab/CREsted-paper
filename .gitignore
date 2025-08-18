@@ -11,3 +11,9 @@
 motif_list.txt
 *slurm*
 *.index
+*.npz
+*.keras
+**/wandb
+*.h5ad
+**/figures
+*.png
