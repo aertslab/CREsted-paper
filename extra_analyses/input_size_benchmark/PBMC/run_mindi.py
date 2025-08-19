@@ -108,6 +108,11 @@ tm.pl.tsne(
     save_path="figures/seqlets_tsne_cluster_dbd.png",
 )
 
+tm.io.save_h5ad(
+    adata,
+    "tfmindi_adata.h5ad"
+)
+
 color_dict = {
         "input_132_20258602526": "#60a85f",
         "input_same_shape_132_20258516744": "#026200",
