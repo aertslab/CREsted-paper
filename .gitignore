@@ -17,3 +17,5 @@ motif_list.txt
 *.h5ad
 **/figures
 *.png
+.ipynb_checkpoints
+
