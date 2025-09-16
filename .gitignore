@@ -20,3 +20,6 @@ motif_list.txt
 .ipynb_checkpoints
 enriched_motifs.txt
 *.pdf
+*.tsv
+*.txt
+*.bw
