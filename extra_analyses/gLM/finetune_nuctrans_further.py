@@ -30,6 +30,11 @@ crested.register_genome(genome)
 
 # Load data
 adata = ad.read_h5ad(adata_filtered_file)
+crested.pp.change_regions_width(
+    adata,
+    2048,
+    chromsizes_file=chromsizes_file,
+)
 
 # Load model
 tokenizer = AutoTokenizer.from_pretrained("InstaDeepAI/nucleotide-transformer-500m-1000g")
