@@ -7,6 +7,8 @@ The manuscript's Data Availability section contains a detailed description of al
 The analyis data required for running these notebooks can be downloaded at:
 https://resources.aertslab.org/CREsted/manuscript_data/ 
 
+The analyses performed in this repository were done using CREsted v1.3.0.
+
 # Figures
 
 Notebooks and scripts are subdivided in separate folders.
